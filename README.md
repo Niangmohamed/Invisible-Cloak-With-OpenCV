@@ -2,7 +2,7 @@
 
 It’s the cloak which Harry Potter uses to become invisible. Since childhood, I am potter head and fan of all his magics, but it's not real. All this are graphics and visualization. In childhood, I always thought about what if I had same invsibility cloak. But, as I grow I realised in reality, it's nothing like that, but in virtual world it's possible using simple concepts of image processing and opencv. The project of current project is to understand the concept of invisible-cloak.
 
-![gif](https://github.com/Devashi-Choudhary/Invisible-Cloak-or-Adrishya-Choga/blob/master/invisible_cloak.gif)
+![gif](https://github.com/Niangmohamed/Invisible-Cloak-With-OpenCV/blob/master/invisible_cloak.gif)
 
 # How to execute code:
 
