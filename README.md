@@ -6,4 +6,3 @@ In this notebook, we will learn how to create our own **Invisibility Cloak** usi
 
 ![gif](https://github.com/Niangmohamed/Invisible-Cloak-With-OpenCV/blob/main/invisible_cloak.gif)
 
-
