@@ -1,5 +1,5 @@
 # Invisibility-Cloak
 
-![gif](https://github.com/Niangmohamed/Invisible-Cloak-With-OpenCV/blob/master/invisible_cloak.gif)
+![gif](https://github.com/Niangmohamed/Invisible-Cloak-With-OpenCV/blob/main/invisible_cloak.gif)
 
 
